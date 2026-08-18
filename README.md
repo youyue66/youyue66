@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**youyue66/youyue66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer | Linux enthusiast | Open-source contributor
 
-Here are some ideas to get you started:
+## 🛠️ Tools I Use Daily
+- **Editor:** Vim
+- **Terminal:** tmux + bash
+- **Version Control:** Git
+- **Container:** Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Kubernetes and container orchestration
+- Infrastructure as Code
+
+## 📂 Repositories
+- [dotfiles](https://github.com/youyue66/dotfiles) — shell, vim, tmux configs
+
+---
+Thanks for visiting!
