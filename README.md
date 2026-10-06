@@ -9,8 +9,8 @@ Developer | Linux enthusiast | Open-source contributor
 - **Container:** Docker
 
 ## 🌱 Currently Learning
-- Rust programming language
-- Observability with Prometheus
+- Go and gRPC
+- CI/CD with GitHub Actions
 
 ## 📂 Repositories
 - [dotfiles](https://github.com/youyue66/dotfiles) — shell, vim, tmux configs
