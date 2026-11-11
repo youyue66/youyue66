@@ -9,8 +9,8 @@ Developer | Linux enthusiast | Open-source contributor
 - **Container:** Docker
 
 ## 🌱 Currently Learning
-- Go and gRPC
-- CI/CD with GitHub Actions
+- Kubernetes and container orchestration
+- Infrastructure as Code
 
 ## 📂 Repositories
 - [dotfiles](https://github.com/youyue66/dotfiles) — shell, vim, tmux configs
